@@ -1,0 +1,5 @@
+{
+    "name": "Bit2Bytes",
+    "description": "Convert Bits 2 Bytes",
+	"main": "bit2bytes.php"
+}
